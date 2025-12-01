@@ -2,20 +2,36 @@
 
 Файл index.html.
 1. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024".
-2. ...
-3. ...
-4. ...
+2. Основныые Интрументы ==> Основные Инcтрументы
+3. Тетирование WEB-приложений ==> Теcтирование WEB-приложений
+4. Командная строка Windos ==> Командная строка Windows
+5. <a href="html/mac.html">Терминал MacOS</a> ==> <a href="mac.html">Терминал MacOS</a>
+6. <a href="html/git.html">Git</a> ==> <a href="git.html">Git</a>
+7. <link rel="shortcut icon" href="img/fav.ico" type="image/x-icon"> ==> <link rel="shortcut icon" href="fav.ico" type="image/x-icon">
+8. <center><img class="center animated rollIn" src="img/ava.png" alt="avatar"></center> ==> <center><img class="center animated rollIn" src="ava.png" alt="avatar"></center>
 
 Файл cmd.html.
-1. ...
-2. ...
-3. ...
+1.  Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024"
+2.  <title>Portal for QA</title> ==> <title>Командная строка Windows</title>
+3. <link rel="shortcut icon" href="../img/fav.ico" type="image/x-icon"> ==> <link rel="shortcut icon" href="fav.ico" type="image/x-icon">
 
 Файл mac.html.
-1. ...
-2. ...
+1. <title>Терминал MaOS</title> ==> <title>Терминал MacOS</title>
+2. расфшифровывается как"Move" ==> расшифровывается как "Move"
+3. <a href="../index.html">Вернуться на главную</a> ==> <a href="index.html">Вернуться на главную</a>
+4. <link rel="shortcut icon" href="../img/fav.ico" type="image/x-icon"> ==> <link rel="shortcut icon" href="fav.ico" type="image/x-icon">
 
 Файл git.html
-1. ...
-2. ...
-3. ...
+1. <link rel="shortcut icon" href="../img/fav.ico" type="image/x-icon"> ==> <link rel="shortcut icon" href="fav.ico" type="image/x-icon">
+2. ls ==> ls-files
+3. <li>pwd - расшифровывается как "Present working directory", что переводится как "текущая рабочая директория". То есть команда pwd показывает, в какой сейчас папке мы находимся.</li> ==> <li>pwd - расшифровывается как "Print working directory", что переводится как "вывести рабочую директорию", используется для отображения полного пути к текущему каталогу..</li>
+4. <li>mkdir - расшифровывается как "Make directory", что переводится как "создать папку".</li> ==> <li>mkdir - расшифровывается как "Make directory", что переводится как "создать каталог".</li>
+5. <li>mv - расфшифровывается как"Move", что переводится как "переместить", "передвинуть". С помощью нее можно переместить, переименовать или удалить файл/</li> ==> <li>mv - расшифровывается как "Move", что переводится как "переместить", "передвинуть". С помощью нее можно переместить или переименовать файл.</li>
+6. <a href="mac.html">Вернуся на главную</a> ==> <a href="index.html">Вернуться на главную</a>
+7. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024"
+
+
+
+
+
+
